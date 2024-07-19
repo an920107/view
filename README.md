@@ -2,6 +2,10 @@
 
 A zsh plugin to view files such as markdown from command line with pandoc.
 
+## Demo
+
+<img src="https://i.imgur.com/qiRRsFj.gif" width="960" height="540">
+
 ## Installation
 
 ### Requirement
