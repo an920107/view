@@ -1,5 +1,7 @@
 # View
 
+[![GitHub](https://img.shields.io/badge/GitHub-an920107-blue?logo=github)](https://github.com/an920107)
+
 A zsh plugin to view files such as markdown from command line with pandoc.
 
 ## Demo
