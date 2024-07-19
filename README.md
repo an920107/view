@@ -25,6 +25,7 @@ A zsh plugin to view files such as markdown from command line with pandoc.
   sudo pacman -Sy
   sudo pacman -S pandoc busybox
   ```
+
 ### Download
 
 > It's currently available on [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh).
